@@ -1,5 +1,9 @@
 # Digital_Department_Ios
 
+![IOS App Screenshot](screenshots/IOS_Screenshot1.jpg)
+
+![IOS App Screenshot](screenshots/IOS_Screenshot2.jpg)
+
 ## Описание проекта
 Это проект экрана приложения, написанный на Swift c использованием SwiftUI. На экране присутствуют следующие элементы:
 
